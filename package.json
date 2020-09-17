@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/vtmpenyana/parcelDemo/issues"
   },
-  "homepage": "https://github.com/vtmpenyana/parcelDemo#readme"
+  "homepage": "https://github.com/vtmpenyana/parcelDemo#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
 }
